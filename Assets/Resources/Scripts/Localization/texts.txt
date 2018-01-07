@@ -1,0 +1,30 @@
+{
+  "languages":[
+    {
+      "langCode":"pt-BR",
+      "terms": [
+        {
+          "key":"app.title",
+          "value":"Conduza sua história"
+        },
+        {
+          "key":"app.description",
+          "value":"Aqui você mesmo vai conduzir a história. Tudo vai acontecer baseado nas suas decisões então cuidado!"
+        }
+      ]
+    },
+    {
+      "langCode":"en",
+      "terms":[
+        {
+          "key":"app.title",
+          "value":"Drive your story"
+        },
+        {
+          "key":"app.description",
+          "value":"Here you are going to drive your story. Everything is going to happen based on your own decisions, so be careful!"
+        }
+      ]
+    }
+  ]
+}

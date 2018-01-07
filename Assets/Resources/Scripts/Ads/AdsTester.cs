@@ -6,7 +6,7 @@ public class AdsTester : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		Localizer loc = Localizer.get ();
 	}
 	
 	// Update is called once per frame
